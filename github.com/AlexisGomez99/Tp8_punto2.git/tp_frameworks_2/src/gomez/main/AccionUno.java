@@ -5,6 +5,12 @@ import gomez.utilizacion.Accion;
 public class AccionUno implements Accion {
 	@Override
 	public void ejecutar() {
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}		
 		System.out.println("Ejecutando AccionUno...");
 	}
 

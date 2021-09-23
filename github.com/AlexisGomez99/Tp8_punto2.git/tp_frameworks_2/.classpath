@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Alexis/Desktop/lanterna-3.2.0-alpha1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alexis/Desktop/jar prueba/framework-v2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexis/Desktop/jar prueba/framework-v3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

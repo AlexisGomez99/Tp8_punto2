@@ -6,7 +6,7 @@ public class AccionCuatro implements Accion{
 
 	@Override
 	public void ejecutar() {
-		System.out.println("Ejecutando accion 4");
+		System.out.println("Ejecutando AccionCuatro...");
 	}
 
 	@Override
@@ -18,7 +18,7 @@ public class AccionCuatro implements Accion{
 	@Override
 	public String descripcionItemMenu() {
 		// TODO Auto-generated method stub
-		return "...";
+		return "Habilita las todas las alarmas...";
 	}
 
 }
